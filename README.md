@@ -5,3 +5,5 @@ Ejercicio de taller de git
 * Item 2
   * A
   * B
+  
+* Mejorar presentaciones (utilizar pizarra, o lápiz electrónico, etc)
